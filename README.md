@@ -1,4 +1,4 @@
-<!-- # odin-recipes -->
+# odin-recipes
 The current project will be my third website, in quite excited about it.
 I will need CLI and VCS basic knowledge to run commands and code lines of text
 I will need a basic understanding of how a directory works and handles files within
